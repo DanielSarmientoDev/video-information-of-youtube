@@ -32,6 +32,7 @@ if __name__ == "__main__":
         print("----------------------------------------")
         print("Display video information of Youtube,Vimeo y dailymotion")
         print("Create by: Daniel Sarmiento Dev")
+        print("Video Example: https://www.youtube.com/watch?v=9KM_6EeUu_4&feature=youtu.be")
         print("----------------------------------------")
         video = input("Escribe La Url Del Video: ")
         os.system ("clear") 
